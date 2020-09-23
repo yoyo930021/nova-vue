@@ -21,4 +21,7 @@
             "default": true
         }
     ],
+    "entitlements": {
+        "process": true
+    }
 }
