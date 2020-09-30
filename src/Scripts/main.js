@@ -1,7 +1,3 @@
-// import './registrars/vueRegistrar.js'
-// require('./registrars/vueTemplateRegistrar.js');
-// require('./registrars/vueScriptRegistrar.js');
-
 let client
 
 // async function reload() {
